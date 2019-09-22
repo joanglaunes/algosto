@@ -1,3 +1,6 @@
 
 .DS_Store
 python/TP_intro_python.py
+python/__pycache__/*
+python/.ipynb_checkpoints/*
+.gitignore~
